@@ -26,6 +26,6 @@ ____
 *Correo*
 [anagonesca@gmail.com](mailto:anagonesca@gmail.com)
 
-### Creado en el bootcamp de Tecnolochicas Pro 🩷:
+### Creado en el bootcamp de Tecnolochicas Pro 🩷
 [Tecnolochicas](https://tecnolochicas.mx/)
 
