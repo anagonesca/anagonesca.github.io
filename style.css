@@ -1,0 +1,99 @@
+* {
+    font-family: "Sour Gummy", serif;
+}
+
+header {
+    background-color: #640D5F;
+}
+header a{
+    color: #FFB200;
+}
+.nav-item a{
+    color: #FFB200
+}
+
+#boton-perfil{
+   background-color: #D91656; 
+}
+.nav-item a:hover{
+    color: #D91656;
+}
+#app{
+    color: #D91656 ;
+}
+.boton-cv{
+    background-color: #640D5F;
+    color: #FFB200;
+}
+.link-cv :hover{
+background-color: #EFB6C8;
+color: #D91656;
+
+}
+.caja-habilidades{
+    background-color: #EFB6C8;
+}
+
+.feature-icon{
+    background-color: #640D5F;
+    color: white;
+}
+.btn-proyecto{
+    background-color: #EFB6C8;
+    color: #640D5F;
+}
+.btn-proyecto a{
+text-decoration: none;
+color: #640D5F;
+}
+.btn-proyecto :hover{
+    color: #D91656;   
+}
+.card-title{
+    color: #640D5F;
+}
+.subtitle-h{
+    color: #640D5F;
+}
+.pb-2{
+    color: #640D5F;
+}
+.card{
+    border: 0;
+    color: #640D5F;
+}
+#contacto{
+    color: #640D5F
+}
+.lead{
+    color: black;
+}
+.boton-contact {
+    border-radius: 90%;
+    background-color: #640D5F;
+    color: #FFB200;
+}
+.btn-mail :hover{
+    border-radius: 90%;
+    background-color: #EFB6C8;
+    color: #640D5F;
+}
+.nav-foot {
+    border-radius: 100%;
+    background-color: #EFB6C8;
+    color: #640D5F;
+}
+.nav-foot a:hover{
+    border-radius: 100%;
+    background-color: #EFB6C8;
+    color: #D91656;
+}
+.link-tecno a{
+    color: #640D5F;
+    text-decoration: none;
+}
+.link-tecno a:hover{
+    border-radius: 10%;
+    background-color: #EFB6C8;
+    color: #D91656;
+}
